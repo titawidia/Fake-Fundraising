@@ -1,8 +1,8 @@
 package com.itc.fakefundraising.entities;
 
-import com.itc.fakefundraising.enumiration.AkadPundi;
-import com.itc.fakefundraising.enumiration.Pundi;
-import com.itc.fakefundraising.enumiration.Unit;
+import com.itc.fakefundraising.enumeration.AkadPundi;
+import com.itc.fakefundraising.enumeration.Pundi;
+import com.itc.fakefundraising.enumeration.Unit;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.ToString;

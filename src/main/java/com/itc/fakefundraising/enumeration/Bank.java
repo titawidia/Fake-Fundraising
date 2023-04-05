@@ -1,4 +1,4 @@
-package com.itc.fakefundraising.enumiration;
+package com.itc.fakefundraising.enumeration;
 
 public enum Bank {
     BSI_7745678925_ISHO,

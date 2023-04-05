@@ -1,4 +1,4 @@
-package com.itc.fakefundraising.enumiration;
+package com.itc.fakefundraising.enumeration;
 
 public enum Unit {
     FO_0,
